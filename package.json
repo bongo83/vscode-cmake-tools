@@ -3758,7 +3758,7 @@
     "@types/string.prototype.matchall": "^4.0.4",
     "ajv": "^7.1.0",
     "chokidar": "^3.5.1",
-    "handlebars": "^4.7.7",
+    "handlebars": "^4.7.8",
     "iconv-lite": "^0.6.2",
     "js-yaml": "^4.0.0",
     "json5": "^2.2.2",
